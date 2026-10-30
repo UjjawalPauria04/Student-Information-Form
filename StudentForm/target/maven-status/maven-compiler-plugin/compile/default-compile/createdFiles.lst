@@ -1,0 +1,4 @@
+com\student\DBConnection.class
+com\server\studentform\JakartaRestConfiguration.class
+com\server\studentform\resources\JakartaEE10Resource.class
+com\student\Formservlet.class
