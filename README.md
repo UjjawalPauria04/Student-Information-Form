@@ -83,5 +83,5 @@ StudentForm-1.0-SNAPSHOT
 
 ## Author
 
-[Your Name]
-GitHub: [@your-username](https://github.com/your-username)
+Ujjawal Pauria
+GitHub:(https://github.com/UjjawalPauria04)
